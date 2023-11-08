@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Check my resumé](https://donizer.github.io/donizer-three/)
+[Check my CV](https://donizer.github.io/donizer-three/)
 
 <!--
 **donizer/donizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
